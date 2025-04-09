@@ -29,7 +29,7 @@ $curl = curl_init();
             CURLOPT_CUSTOMREQUEST => "GET",
             CURLOPT_HTTPHEADER => [
                 "accept: application/json",
-                "access_token: \$aact_YTU5YTE0M2M2N2I4MTliNzk0YTI5N2U5MzdjNWZmNDQ6OjAwMDAwMDAwMDAwMDAwNzYzODI6OiRhYWNoXzFmYjg5Y2EzLTIxYWMtNDBlZC1hMDQyLTJjM2RhMGU3YzU2MQ=="
+                "access_token: "
             ],
         ]);
         curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
