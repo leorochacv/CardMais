@@ -1,8 +1,8 @@
 <?php
-    $servername = "bz42";
-    $username = "cardma98_adminuser";
-    $password = "CardioMED@2024_";
-    $dbName = "cardma98_cardmais";
+    $servername = "";
+    $username = "";
+    $password = "";
+    $dbName = "";
 
     // Cria Conexão
     $conn = new mysqli($servername, $username, $password, $dbName);
