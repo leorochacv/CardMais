@@ -1,0 +1,209 @@
+[24-Jun-2024 10:55:02 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 10:55:02 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 10:55:02 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 12:51:19 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 12:51:19 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 12:51:19 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 12:51:44 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'cardma98_adminuser'@'bz42.hostgator.com.br' to database 'cardmais' in /home1/cardma98/public_html/conexao.php:8
+Stack trace:
+#0 /home1/cardma98/public_html/conexao.php(8): mysqli->__construct('bz42', 'cardma98_adminu...', Object(SensitiveParameterValue), 'cardmais')
+#1 /home1/cardma98/public_html/login/loginSecreto.php(3): include_once('/home1/cardma98...')
+#2 {main}
+  thrown in /home1/cardma98/public_html/conexao.php on line 8
+[24-Jun-2024 12:54:05 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'cardma98_adminuser'@'bz42.hostgator.com.br' to database 'cardmais' in /home1/cardma98/public_html/conexao.php:8
+Stack trace:
+#0 /home1/cardma98/public_html/conexao.php(8): mysqli->__construct('bz42', 'cardma98_adminu...', Object(SensitiveParameterValue), 'cardmais')
+#1 /home1/cardma98/public_html/login/loginSecreto.php(3): include_once('/home1/cardma98...')
+#2 {main}
+  thrown in /home1/cardma98/public_html/conexao.php on line 8
+[24-Jun-2024 12:54:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'cardma98_adminuser'@'bz42.hostgator.com.br' to database 'cardmais' in /home1/cardma98/public_html/conexao.php:8
+Stack trace:
+#0 /home1/cardma98/public_html/conexao.php(8): mysqli->__construct('bz42', 'cardma98_adminu...', Object(SensitiveParameterValue), 'cardmais')
+#1 /home1/cardma98/public_html/login/loginSecreto.php(3): include_once('/home1/cardma98...')
+#2 {main}
+  thrown in /home1/cardma98/public_html/conexao.php on line 8
+[24-Jun-2024 13:06:01 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'cardma98_adminuser'@'bz42.hostgator.com.br' to database 'cardmais' in /home1/cardma98/public_html/conexao.php:8
+Stack trace:
+#0 /home1/cardma98/public_html/conexao.php(8): mysqli->__construct('bz42', 'cardma98_adminu...', Object(SensitiveParameterValue), 'cardmais')
+#1 /home1/cardma98/public_html/login/loginSecreto.php(3): include_once('/home1/cardma98...')
+#2 {main}
+  thrown in /home1/cardma98/public_html/conexao.php on line 8
+[24-Jun-2024 13:06:41 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'cardma98_adminuser'@'bz42.hostgator.com.br' to database 'cardmais' in /home1/cardma98/public_html/conexao.php:8
+Stack trace:
+#0 /home1/cardma98/public_html/conexao.php(8): mysqli->__construct('bz42', 'cardma98_adminu...', Object(SensitiveParameterValue), 'cardmais')
+#1 /home1/cardma98/public_html/login/loginSecreto.php(3): include_once('/home1/cardma98...')
+#2 {main}
+  thrown in /home1/cardma98/public_html/conexao.php on line 8
+[24-Jun-2024 13:06:56 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 13:06:56 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 13:06:56 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 13:07:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'cardma98_adminuser'@'bz42.hostgator.com.br' to database 'cardmais' in /home1/cardma98/public_html/conexao.php:8
+Stack trace:
+#0 /home1/cardma98/public_html/conexao.php(8): mysqli->__construct('bz42', 'cardma98_adminu...', Object(SensitiveParameterValue), 'cardmais')
+#1 /home1/cardma98/public_html/login/loginSecreto.php(3): include_once('/home1/cardma98...')
+#2 {main}
+  thrown in /home1/cardma98/public_html/conexao.php on line 8
+[24-Jun-2024 15:08:24 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 15:08:24 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 15:08:24 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 15:08:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Pacientes' doesn't exist in /home1/cardma98/public_html/login/loginSecreto.php:11
+Stack trace:
+#0 /home1/cardma98/public_html/login/loginSecreto.php(11): mysqli->prepare('SELECT idPacien...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/login/loginSecreto.php on line 11
+[24-Jun-2024 15:08:35 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Pacientes' doesn't exist in /home1/cardma98/public_html/login/loginSecreto.php:11
+Stack trace:
+#0 /home1/cardma98/public_html/login/loginSecreto.php(11): mysqli->prepare('SELECT idPacien...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/login/loginSecreto.php on line 11
+[24-Jun-2024 15:11:13 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 15:11:13 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 15:11:13 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 15:11:18 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:11:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(31): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:11:29 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:11:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(31): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:11:37 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 15:11:37 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 15:11:37 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 15:11:45 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 15:11:45 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 15:11:45 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 15:13:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[24-Jun-2024 15:13:43 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 15:13:43 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 15:13:43 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 15:14:32 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 15:14:32 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 15:14:32 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 15:15:02 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:15:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(31): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:24:49 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 29
+[24-Jun-2024 15:24:49 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/login.php on line 31
+[24-Jun-2024 15:24:49 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/login/login.php on line 33
+[24-Jun-2024 15:25:12 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:25:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(31): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:27:01 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:27:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(31): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:30:51 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 15:30:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(31): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:14:58 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:14:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(3): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:15:29 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:15:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(3): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:15:35 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:15:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(3): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:15:50 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:15:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(4): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:15:56 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:15:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmail.php:2
+Stack trace:
+#0 /home1/cardma98/public_html/login/infLogin.php(4): require()
+#1 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmail.php on line 2
+[24-Jun-2024 16:16:27 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[24-Jun-2024 16:16:27 America/Fortaleza] PHP Warning:  Undefined variable $list in /home1/cardma98/public_html/login/infLogin.php on line 641
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Undefined variable $list in /home1/cardma98/public_html/login/infLogin.php on line 640
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Undefined array key 2 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Undefined array key 4 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Undefined array key 16 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Undefined array key 20 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Undefined array key 21 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Undefined array key 27 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Undefined array key 28 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:18:31 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Undefined variable $list in /home1/cardma98/public_html/login/infLogin.php on line 640
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Undefined array key 2 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Undefined array key 4 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Undefined array key 16 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Undefined array key 20 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Undefined array key 21 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Undefined array key 27 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Undefined array key 28 in /home1/cardma98/public_html/login/infLogin.php on line 753
+[24-Jun-2024 16:19:14 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/infLogin.php on line 753
+[27-Jun-2024 13:28:46 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[27-Jun-2024 13:28:46 America/Fortaleza] PHP Warning:  Undefined variable $list in /home1/cardma98/public_html/login/infLogin.php on line 640
+[27-Jun-2024 13:30:20 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[27-Jun-2024 13:30:20 America/Fortaleza] PHP Warning:  Undefined variable $list in /home1/cardma98/public_html/login/infLogin.php on line 640
+[27-Jun-2024 13:32:04 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[27-Jun-2024 13:32:04 America/Fortaleza] PHP Warning:  Undefined variable $list in /home1/cardma98/public_html/login/infLogin.php on line 640
+[27-Jun-2024 13:32:24 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[27-Jun-2024 13:32:24 America/Fortaleza] PHP Warning:  Undefined variable $list in /home1/cardma98/public_html/login/infLogin.php on line 640
+[27-Jun-2024 13:53:46 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[27-Jun-2024 13:53:46 America/Fortaleza] PHP Warning:  Undefined variable $list in /home1/cardma98/public_html/login/infLogin.php on line 640
+[16-Jul-2024 14:55:19 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[16-Jul-2024 14:55:26 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[16-Jul-2024 14:57:25 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[16-Jul-2024 14:57:30 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[16-Jul-2024 14:57:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[16-Jul-2024 14:57:48 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[16-Jul-2024 14:57:53 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[16-Jul-2024 14:58:00 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[04-Sep-2024 23:02:00 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/login/loginSecreto.php on line 17
+[04-Sep-2024 23:02:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/login/loginSecreto.php:17) in /home1/cardma98/public_html/login/loginSecreto.php on line 23
+[05-Oct-2024 22:57:19 America/Fortaleza] PHP Warning:  Undefined array key "cpfLogin" in /home1/cardma98/public_html/login/loginSecreto.php on line 5
+[05-Oct-2024 22:57:19 America/Fortaleza] PHP Warning:  Undefined array key "senhaLogin" in /home1/cardma98/public_html/login/loginSecreto.php on line 6
+[05-Oct-2024 22:57:19 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/loginSecreto.php on line 8
+[21-Nov-2024 09:56:39 America/Fortaleza] PHP Warning:  Undefined array key "cpfLogin" in /home1/cardma98/public_html/login/loginSecreto.php on line 5
+[21-Nov-2024 09:56:39 America/Fortaleza] PHP Warning:  Undefined array key "senhaLogin" in /home1/cardma98/public_html/login/loginSecreto.php on line 6
+[21-Nov-2024 09:56:39 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/login/loginSecreto.php on line 8
+[09-Dec-2024 09:18:33 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[09-Dec-2024 09:18:33 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home1/cardma98/public_html/login/infLogin.php on line 11
+[09-Dec-2024 13:12:09 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[09-Dec-2024 13:12:09 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home1/cardma98/public_html/login/infLogin.php on line 11
+[09-Dec-2024 13:59:02 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home1/cardma98/public_html/login/infLogin.php on line 7
+[09-Dec-2024 13:59:02 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated after headers have already been sent in /home1/cardma98/public_html/login/infLogin.php on line 11

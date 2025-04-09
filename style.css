@@ -1,0 +1,64 @@
+.flutuante {  
+  display: inline-block;  
+  -webkit-transition-duration: 0.4s;  
+  transition-duration: 0.4s;  
+  -webkit-transition-property: -webkit-transform;  
+  transition-property: transform;  
+  -webkit-transform: translateZ(0);  
+  -ms-transform: translateZ(0);  
+  transform: translateZ(0);  
+  box-shadow: 0px 4px 2px 0px rgba(98, 98, 98, 0.69);
+}  
+      
+.flutuante:hover {  
+  -webkit-transform: translateY(-5px);  
+  -ms-transform: translateY(-5px);  
+  transform: translateY(-5px);
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.69);  
+} 
+
+.flutuante-text {  
+  display: inline-block;  
+  -webkit-transition-duration: 0.4s;  
+  transition-duration: 0.4s;  
+  -webkit-transition-property: -webkit-transform;  
+  transition-property: transform;  
+  -webkit-transform: translateZ(0);  
+  -ms-transform: translateZ(0);  
+  transform: translateZ(0);  
+  
+}
+
+.flutuante-text:hover {  
+  -webkit-transform: translateY(-5px);  
+  -ms-transform: translateY(-5px);  
+  transform: translateY(-5px);  
+} 
+
+.wpp{
+position:fixed;
+width:60px;
+height:60px;
+bottom:40px;
+right:40px;
+background-color:#25d366;
+color:#FFF;
+border-radius:50px;
+text-align:center;
+font-size:30px;
+box-shadow: 1px 1px 2px #888;
+z-index:1000;
+}
+
+.li-img{
+  list-style-image: url('./imgs/check2-square.svg');
+}
+
+.field{
+  box-shadow: 0 0 15px;
+}
+
+.bg-card{
+  background-color: #b5231b;
+  color: white;
+}
