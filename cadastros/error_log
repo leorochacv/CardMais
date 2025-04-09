@@ -1,0 +1,28 @@
+[24-Jun-2024 16:19:38 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 4
+[24-Jun-2024 16:19:38 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 6
+[24-Jun-2024 16:19:38 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 8
+[24-Jun-2024 16:19:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php:1) in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 11
+[26-Jun-2024 12:50:13 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 4
+[26-Jun-2024 12:50:13 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 6
+[26-Jun-2024 12:50:13 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 8
+[26-Jun-2024 12:50:13 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php:1) in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 11
+[01-Jul-2024 09:35:20 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[01-Jul-2024 10:12:54 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[01-Jul-2024 10:45:34 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[01-Jul-2024 11:00:42 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[01-Jul-2024 11:11:20 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[02-Jul-2024 11:46:18 America/Fortaleza] PHP Warning:  Undefined array key "slctParceiro" in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 181
+[02-Jul-2024 11:47:58 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[02-Jul-2024 13:42:03 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[05-Nov-2024 13:06:08 America/Fortaleza] PHP Warning:  Undefined array key "slctRegiao" in /home1/cardma98/public_html/cadastros/cadParceiros.php on line 347
+[09-Dec-2024 09:18:15 America/Fortaleza] PHP Warning:  Undefined array key "generoDep1" in /home1/cardma98/public_html/cadastros/cadPacienteFam.php on line 29
+[09-Dec-2024 09:18:15 America/Fortaleza] PHP Warning:  Undefined array key "generoDep2" in /home1/cardma98/public_html/cadastros/cadPacienteFam.php on line 34
+[09-Dec-2024 09:18:15 America/Fortaleza] PHP Warning:  Undefined array key "generoDep3" in /home1/cardma98/public_html/cadastros/cadPacienteFam.php on line 39
+[09-Dec-2024 09:18:15 America/Fortaleza] PHP Warning:  Undefined array key "generoDep4" in /home1/cardma98/public_html/cadastros/cadPacienteFam.php on line 44
+[09-Dec-2024 09:42:12 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[09-Dec-2024 09:43:40 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[09-Dec-2024 09:45:22 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[09-Dec-2024 09:56:18 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[09-Dec-2024 10:02:10 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[09-Dec-2024 10:02:48 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201
+[09-Dec-2024 10:09:09 America/Fortaleza] PHP Warning:  Undefined variable $in in /home1/cardma98/public_html/cadastros/cadTabelaProcedimentos.php on line 201

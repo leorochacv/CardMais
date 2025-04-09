@@ -1,0 +1,5 @@
+[24-Jun-2024 16:18:37 America/Fortaleza] PHP Warning:  require(../email/PHPMailer-master/src/PHPMailer.php): Failed to open stream: No such file or directory in /home1/cardma98/public_html/email/enviarEmailVoucherPdf.php on line 2
+[24-Jun-2024 16:18:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '../email/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/cardma98/public_html/email/enviarEmailVoucherPdf.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/cardma98/public_html/email/enviarEmailVoucherPdf.php on line 2

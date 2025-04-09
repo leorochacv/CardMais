@@ -1,0 +1,78 @@
+[24-Jun-2024 16:19:45 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/administrativo/cadAdmPagina.php on line 23
+[24-Jun-2024 16:19:45 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/administrativo/cadAdmPagina.php on line 25
+[24-Jun-2024 16:19:45 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/administrativo/cadAdmPagina.php on line 27
+[24-Jun-2024 16:19:45 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/cadAdmPagina.php:1) in /home1/cardma98/public_html/administrativo/cadAdmPagina.php on line 31
+[24-Jun-2024 16:19:48 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 25
+[24-Jun-2024 16:19:48 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 27
+[24-Jun-2024 16:19:48 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 29
+[24-Jun-2024 16:19:48 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/cadUserPag.php:1) in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 33
+[24-Jun-2024 16:19:48 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Parceiros' doesn't exist in /home1/cardma98/public_html/administrativo/cadUserPag.php:37
+Stack trace:
+#0 /home1/cardma98/public_html/administrativo/cadUserPag.php(37): mysqli->prepare('SELECT idParcei...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 37
+[24-Jun-2024 16:20:00 America/Fortaleza] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 25
+[24-Jun-2024 16:20:00 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 27
+[24-Jun-2024 16:20:00 America/Fortaleza] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 29
+[24-Jun-2024 16:20:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/cadUserPag.php:1) in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 33
+[24-Jun-2024 16:20:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Parceiros' doesn't exist in /home1/cardma98/public_html/administrativo/cadUserPag.php:37
+Stack trace:
+#0 /home1/cardma98/public_html/administrativo/cadUserPag.php(37): mysqli->prepare('SELECT idParcei...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/administrativo/cadUserPag.php on line 37
+[24-Jun-2024 16:26:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Vendedores' doesn't exist in /home1/cardma98/public_html/administrativo/cadUser.php:9
+Stack trace:
+#0 /home1/cardma98/public_html/administrativo/cadUser.php(9): mysqli->prepare('INSERT INTO Ven...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/administrativo/cadUser.php on line 9
+[24-Jun-2024 16:27:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Vendedores' doesn't exist in /home1/cardma98/public_html/administrativo/cadUser.php:9
+Stack trace:
+#0 /home1/cardma98/public_html/administrativo/cadUser.php(9): mysqli->prepare('INSERT INTO Ven...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/administrativo/cadUser.php on line 9
+[24-Jun-2024 16:27:38 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Vendedores' doesn't exist in /home1/cardma98/public_html/administrativo/cadUser.php:9
+Stack trace:
+#0 /home1/cardma98/public_html/administrativo/cadUser.php(9): mysqli->prepare('INSERT INTO Ven...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/administrativo/cadUser.php on line 9
+[24-Jun-2024 16:28:35 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Vendedores' doesn't exist in /home1/cardma98/public_html/administrativo/cadUser.php:9
+Stack trace:
+#0 /home1/cardma98/public_html/administrativo/cadUser.php(9): mysqli->prepare('INSERT INTO Ven...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/administrativo/cadUser.php on line 9
+[24-Jun-2024 16:29:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Vendedores' doesn't exist in /home1/cardma98/public_html/administrativo/cadUser.php:9
+Stack trace:
+#0 /home1/cardma98/public_html/administrativo/cadUser.php(9): mysqli->prepare('INSERT INTO Ven...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/administrativo/cadUser.php on line 9
+[28-Aug-2024 22:56:54 America/Fortaleza] PHP Warning:  Undefined array key "nickLogin" in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 4
+[28-Aug-2024 22:56:54 America/Fortaleza] PHP Warning:  Undefined array key "senhaLogin" in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 5
+[28-Aug-2024 22:56:54 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 7
+[20-Sep-2024 06:34:44 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 18
+[20-Sep-2024 06:34:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/loginSecretoAdm.php:18) in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 24
+[05-Oct-2024 22:57:17 America/Fortaleza] PHP Warning:  Undefined array key "nickLogin" in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 4
+[05-Oct-2024 22:57:17 America/Fortaleza] PHP Warning:  Undefined array key "senhaLogin" in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 5
+[05-Oct-2024 22:57:17 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 7
+[05-Nov-2024 10:25:27 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 18
+[05-Nov-2024 10:25:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/loginSecretoAdm.php:18) in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 24
+[05-Nov-2024 10:33:13 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 18
+[05-Nov-2024 10:33:13 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/loginSecretoAdm.php:18) in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 24
+[05-Nov-2024 10:35:05 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 18
+[05-Nov-2024 10:35:05 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/loginSecretoAdm.php:18) in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 24
+[05-Nov-2024 10:35:20 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 18
+[05-Nov-2024 10:35:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/loginSecretoAdm.php:18) in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 24
+[05-Nov-2024 10:40:15 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cardma98_cardmais.Adm' doesn't exist in /home1/cardma98/public_html/administrativo/cadAdm.php:14
+Stack trace:
+#0 /home1/cardma98/public_html/administrativo/cadAdm.php(14): mysqli->prepare('SELECT idAdm FR...')
+#1 {main}
+  thrown in /home1/cardma98/public_html/administrativo/cadAdm.php on line 14
+[21-Nov-2024 09:56:44 America/Fortaleza] PHP Warning:  Undefined array key "nickLogin" in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 4
+[21-Nov-2024 09:56:44 America/Fortaleza] PHP Warning:  Undefined array key "senhaLogin" in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 5
+[21-Nov-2024 09:56:44 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 7
+[03-Dec-2024 14:07:32 America/Fortaleza] PHP Warning:  Undefined array key "nickLogin" in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 4
+[03-Dec-2024 14:07:32 America/Fortaleza] PHP Warning:  Undefined array key "senhaLogin" in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 5
+[03-Dec-2024 14:07:32 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 7
+[09-Dec-2024 08:38:00 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 18
+[09-Dec-2024 08:38:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/loginSecretoAdm.php:18) in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 24
+[09-Dec-2024 08:38:13 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 18
+[09-Dec-2024 08:38:13 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cardma98/public_html/administrativo/loginSecretoAdm.php:18) in /home1/cardma98/public_html/administrativo/loginSecretoAdm.php on line 24
